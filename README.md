@@ -1,4 +1,4 @@
-![MasterHead](https://cdnb.artstation.com/p/assets/images/images/024/858/699/original/pixel-jeff-divoom.gif?1583771904)
+![MasterHead](https://s1.ezgif.com/tmp/ezgif-1-522893efe2.gif)
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Maria!</h1>
 

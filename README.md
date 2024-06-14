@@ -11,7 +11,7 @@ a unique perspective to game development. I aim to contribute to innovative proj
 developer within a forward-thinking team.
 
 ---
-<img align="right" alt="Coding Girl" width="400px" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
+<img align="right" alt="Coding Girl" width="300px" src="https://media.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif" />
 
 - 📚 I’m currently learning at **42 School**
 

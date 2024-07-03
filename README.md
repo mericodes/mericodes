@@ -17,7 +17,7 @@ developer within a forward-thinking team.
 
 - 📫 How to reach me **marialopezvivas@gmail.com**
   
-- <a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="15" width="20" /></a> You can also reach me at my <a target="_blank" href="https://icons8.com/icon/13930/linkedin">LinkedIn</a>
+- <a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="15" width="20" /></a> You can also reach me at my <a target="_blank" href="https://www.linkedin.com/in/marialopezvivas/">LinkedIn</a>
 
 <h3 align="left">🖥️ Languages and Tools:</h3>
 <p align="left">
